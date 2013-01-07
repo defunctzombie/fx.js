@@ -24,3 +24,9 @@ fx.slideUp(element);
 ### .slideUp(element);
 
 ### .slideDown(element);
+
+## install via [npm](https://npmjs.org)
+
+```
+npm install fx
+```
